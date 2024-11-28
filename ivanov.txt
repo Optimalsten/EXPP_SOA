@@ -1,0 +1,2 @@
+ivanov ivan ivanovich 2000-01-01 1234567 m
+ivanov petr petrovich 2000-01-01 123457 m
